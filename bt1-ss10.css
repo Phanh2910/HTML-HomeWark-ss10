@@ -1,0 +1,36 @@
+.h2{
+    font-family: 'Brush Script MT', cursive;
+    font-size: 24px;
+    font-weight: bold;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.links{
+    margin: 5px;
+    display: flex;
+    font-size: 50%;
+}
+.linksp{
+    margin-right: 25px;
+}
+#right button{
+    background-color: #8d939e;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    font-size: 70%;
+    padding: 5px 10px 5px 10px;
+}
+header{
+    background-color: #e5e5e5;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 55px;
+    padding: 15px 40px;
+}
+

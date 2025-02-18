@@ -1,0 +1,55 @@
+.space{
+    width: 23%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+#textFont{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.i1{
+    width: 100%;
+    height: 60%;
+    border-radius: 8%;
+    background-image: url(https://plus.unsplash.com/premium_photo-1667598736367-123733f98c9a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8YW1lcmljYW4lMjBmb290YmFsbHxlbnwwfHwwfHx8MA%3D%3D);
+    background-size: cover;
+}
+.i2{
+    width: 100%;
+    height: 60%;
+    border-radius: 8%;
+    background-size: cover;
+    background-image: url(https://upload.wikimedia.org/wikipedia/vi/thumb/1/1c/Slam_Dunk_cover.jpg/300px-Slam_Dunk_cover.jpg);
+}
+.i3{
+    width: 100%;
+    height: 60%;
+    border-radius: 8%;
+    background-size: cover;
+    background-image: url(https://i.redd.it/spf2hg6jvv0b1.jpg);
+}
+.i4{
+    width: 100%;
+    height: 60%;
+    border-radius: 8%;
+    background-size: cover;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Tennis_Racket_and_Balls.jpg/2560px-Tennis_Racket_and_Balls.jpg);
+}
+.Field{
+    width: 900px;
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+}
+.text{
+    width: 100%;
+    height: 30%;
+    background-color: #ebeef3;
+    border-radius: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Anton", serif;
+    font-size: 25px;
+}

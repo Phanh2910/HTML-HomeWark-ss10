@@ -1,0 +1,59 @@
+.liner{
+    width: 450px;
+    height: 900px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: whitesmoke;
+}
+.head{
+    width: 100%;
+    height: 55%;
+    display: flex;
+    justify-content: end;
+    align-items: start;
+    background-image: url(https://cdn.tuoitre.vn/thumb_w/480/471584752817336320/2024/4/27/ywdcslp-171420979652114759173.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 5%;
+    font-family: fantasy;
+}
+.style{
+    border-radius: 5%;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 10px;
+}
+.body{
+    width: 100%;
+    height: 8%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.foot{
+    width: 100%;
+    height: 35%;
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    color: #444;
+}
+#img{
+    border-radius: 50%;
+    margin: 15px;
+    height: 50px;
+    width: 15%;
+}
+button{
+    margin-top: 20px;
+    margin-right: 20px;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+}
